@@ -28,15 +28,15 @@ Functional Module:
 3. Product	        --> Add product, view products, search products by Category
 
 Installation:
-1. Clone the repository : $ git clone 
-https://github.com/senthilkumarIRTT/JFSD-Mini-Project or Download the zip
-2. Import the project inside Eclipse :
+1. Clone the repository : $ git clone
+2. (https://github.com/pravinchilme/JFSD_Project.git) or Download the zip
+3. Import the project inside Eclipse :
 o Open Eclipse > file > import > maven > existing project > browse > finish .
-3. Make sure you are in the Spring_Boot_Project-master  directory.
-4. Configure the database connection in application.properties (check the Database section for more information).
-5. Run the project (by running main method is SsBeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App.
-6. Open http://localhost:8080/home in any browser.
-7. Now your tables will be created in the databse.
+4. Make sure you are in the Spring_Boot_Project-master  directory.
+5. Configure the database connection in application.properties (check the Database section for more information).
+6. Run the project (by running main method is SsBeautyProductsApplication.java) OR right clink on the project > Run As > Spring Boot App.
+7. Open http://localhost:8080/home in any browser.
+8. Now your tables will be created in the databse.
 * You have to add one admin data manually to login as admin, So add one admin data.
 
 Database:
